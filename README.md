@@ -1,18 +1,18 @@
 # Apunts_UF1_1
-### Tipus de Software
+## Tipus de Software
 Software  |Explicació  
 --|--
 **De sistema**  |  Sistema operatiu, drivers.
 **D'aplicació**  |   Navegador, Suite ofimatica, edició d'imatges.
 **De desenvolupament**  |  Editors de codi, compliadors.
 
-### Relació de hardware-software
+## Relació de hardware-software
 - **Disc Dur:** Enmagatzema les dades de l'ordinador, comfitxers, programes...
 - **Memoria Ram:** Enmagatzema de forma temporal els arxius executables de codi bianri.
 - **CPU:** LLegeix i executa les instruccions enmagatzemades a la memoria RAM.
 - **E/S:** Agafa les dades dels dispositius d'entrada i el mostren per pantalla o es guarden al disc dur.
 
-### Codi font, objecte i executables
+## Codi font, objecte i executables
 Codi  |Explicació  
 --|--
 **Font**  | Arxiu escri ten un llenguatje de programació, com java,python...
@@ -30,3 +30,30 @@ Codi  |Explicació
       Probes: L'objectiu de les probes ha de ser de que el software funcioni correctament i s'hi descobreixin errades.
 
       Manteniment: Un cop el software s'ha llançant , es va fent manteniment per a pdoer tenir actualitzat el software i corregir errades.
+
+Hi han diferents tipus de manteniments:
+
+Manteniment  |  Explicació
+--|--
+**Correctiu**  | És corritgeixen el defectes  
+**Perfectiu**  | És mijora la funcionalitat  
+**Evolutiu**  | S'afegeixen noves funcionalitats  
+**Adaptatiu**  |S'adapta a nous entorns  
+
+## Model de desenvolupament de software
+
+### Models clasics:
+**Model en cascada:**  Les fases s'han de realitzar en un orde indicat i no és pot pasar a la següent fase sense a ver acabat la fas anterior.
+
+![](img/cascada.png)
+
+**Model en V:** Els nivells superirors són més generals, al conrari que als nivells inferiros que són de més detall.
+
+![](img/v.png)
+
+### Model de constroucció de prototips
+**Prototip:**  A vegades els requisits no estan especificats. És crea un prototip durant la fase de analisi i és provat per l'usuari per a definir els requeriments. Hi han dos tipus de prototip:
+
+    Prototip ràpid:
+### Models evolutius o incrementals
+
