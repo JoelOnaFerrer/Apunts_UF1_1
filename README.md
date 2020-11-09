@@ -54,6 +54,20 @@ Manteniment  |  Explicació
 ### Model de constroucció de prototips
 **Prototip:**  A vegades els requisits no estan especificats. És crea un prototip durant la fase de analisi i és provat per l'usuari per a definir els requeriments. Hi han dos tipus de prototip:
 
-    Prototip ràpid:
+    Prototip ràpid: El prototip pot esta desenvolupat en un altre llenguatje de programació o amb altres eines del projecte. Finalment aquest prototip és desfa.
+
+    Prototip evolutiu: El prototip està desenvolupat amb el mateix llenguatje de programació i amb les mateixes eines del projecte. S'utilitza com a base per a desenvolupar el projecte.
+
+![](img/prototipos.png)
 ### Models evolutius o incrementals
+**Model en espiral:** L'activita d'engenyeria correspon als models clasics: analisi, diseny, codificació, proves, manteniment.
+
+![](img/espiral.png)
+
+**Metodologia àgil:** Els requisits i les solucions evolucionen amb el temps segons la necesitat del projecte. El treball és realitzat mitjançant equips auto-organitzats. Les metodoligies més conegudes són:
+
+    - Kanban
+    - Scrum
+    - XP (eXtreme Programming)
+
 
