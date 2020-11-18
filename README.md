@@ -70,4 +70,48 @@ Manteniment  |  Explicació
     - Scrum
     - XP (eXtreme Programming)
 
+## Llenguatjes de programació
 
+Per a obtenir el codi binari tenim dos opcions:
+
+    Compiliar.
+    Interpretar.
+
+**Lenguatje compilat:** És tradueix el codi a un arxiu binari. Exemple : C, C++
+
+      Ventatge: Execució molt eficient.
+      Desventatge: És nnecessari compilar-ho sempre que és modifiqui el codi.
+
+**Llenguatje interpretat:** L’interpret executa el codi línea per línea. Exemple : Java, PHP.
+
+      Ventatge: El codi font s'interpreta directament.
+      Desventatge: L'execució és menys eficient.
+
+### Tipus de llenguatje
+
+Segons la forma que operen poden ser:
+
+**Decalaratius:** Indiquen el resultat sense especificar els pasos a seguir. Utilitzen llenguatjes amb regles tipu prolog, amb sentencies com SQL o amb funcion com Lisp. Normalmente son llenguatjes interpretats.
+
+**Imperatius:** Indiquen els pasos  a seguir que hem fet per a obtenir el resultat. Normalment s’utilitza per a programar de forma estrucutrada com c, orientats a objectes com java. Molt d’ells són llenguatjes compilats.
+
+Segons al nivell que trebajen:
+
+**Baix nivell:** Ensamblador.
+
+**Alt nivell:** C++, Java.
+### Procés de compilació / interpretació
+
+**Anàlisi lexic:** Mira línea per línea que estigui tot bé.
+
+**Anàlisi sintactic:** Mira que el codi en general estigui ben escrit.
+
+### Criteris per a la selecció d'un llenguatje
+- Camp d’aplicació
+- Experència prèvia
+- Eina de desenvolupament
+- Documentació disponible
+- Base d’usuaris
+- Reusabailitat
+- Portabilitat
+- Imposició del client
